@@ -1,6 +1,6 @@
 # Pa1_2025
 Producto academico  1
-
+```mermaid
 classDiagram
     class Usuario {
         - nombre: String
