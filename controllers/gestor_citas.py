@@ -1,9 +1,7 @@
 from models.sistema_gestor import SistemaGestorCitas
 
 class GestorCitas:
-    """
-    Controlador para gestionar citas.
-    """
+    #control de citas
     def __init__(self):
         self.__sistema = SistemaGestorCitas()
 
